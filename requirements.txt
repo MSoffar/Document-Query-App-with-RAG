@@ -1,7 +1,7 @@
 streamlit
 requests
 PyPDF2
-farm-haystack[all]==1.15.1
+farm-haystack[all]==1.26.2
 openai
 python-docx
-numpy==1.21.0
+numpy==1.26.4
