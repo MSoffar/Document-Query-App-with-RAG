@@ -1,6 +1,0 @@
-streamlit
-requests
-PyPDF2
-python-docx
-farm-haystack[all]
-openai
